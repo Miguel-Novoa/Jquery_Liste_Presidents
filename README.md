@@ -1,3 +1,3 @@
 # Jquery Presidents 
  
-https://miguel-novoa.github.io/Jquery_Liste_Presidents/
+https://miguel-novoa.github.io/Projet_President_Json/
